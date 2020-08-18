@@ -1,0 +1,1 @@
+This current project is to build the Google homepage. I'm 54% through the odin project and hope to complete it. I'm going to finish, I hope.
